@@ -1,0 +1,12 @@
+test_data_and_filters (test_project.ProjectTests.test_data_and_filters) ... ok
+test_metrics (test_project.ProjectTests.test_metrics) ... ok
+test_streamlit (test_project.ProjectTests.test_streamlit) ... skipped 'Streamlit not installed'
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.366s
+
+OK (skipped=1)
+Python syntax compilation: PASS.
+Notebook fresh execution: PASS (17 cells, 8 code cells).
+Section 8: app analysis matches notebook metrics, predictions and confusion matrix; filter counts verified.
+Streamlit installation attempted but blocked by unavailable network/DNS. Live server, AppTest and browser visual inspection remain pending. Cloud deployment and Canvas submission not performed.
